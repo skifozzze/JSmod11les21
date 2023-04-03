@@ -1,0 +1,25 @@
+{
+  "name": "jsmod11les21", 
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+
+
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build src/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skifozzze/JSmod11les21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skifozzze/JSmod11les21/issues"
+  },
+  "homepage": "https://github.com/skifozzze/JSmod11les21#readme",
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
