@@ -1,1 +1,1 @@
-import timeout from './js/01-timeout';
+// import timeout from './js/01-timeout';
