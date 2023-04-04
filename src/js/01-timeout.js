@@ -36,7 +36,11 @@
 console.log('до виклику setTimeout');
 
 setTimeout(() => {
-  console.log('виклик відкладеної функції');
-}, 0);
+  console.log('виклик відкладеної функції 2000');
+}, 2000);
+
+setTimeout(() => {
+  console.log('виклик відкладеної функції 1000');
+}, 1000);
 
 console.log('після виклику setTimeout');
