@@ -1,9 +1,7 @@
 {
-  "name": "jsmod11les21", 
+  "name": "jsmod11les21",
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
-
-
   "scripts": {
     "start": "parcel",
     "build": "parcel build src/*.html"
@@ -21,5 +19,8 @@
   "homepage": "https://github.com/skifozzze/JSmod11les21#readme",
   "devDependencies": {
     "parcel": "latest"
+  },
+  "dependencies": {    
+    "bootstrap.native": "^3.0.13"
   }
 }
